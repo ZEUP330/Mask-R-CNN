@@ -16,7 +16,7 @@ D:.
 	└─pics
 ```
 
-[here]("Tip/")(on the Tip directory) are some bash-files that help you move files or rename jsons
+[here]("https://github.com/ZEUP330/Mask-R-CNN/tree/master/Tip")(on the Tip directory) are some bash-files that help you move files or rename jsons
 
 you can learn that using the labelme to mark your data in here;
 
