@@ -16,8 +16,8 @@ D:.
 	└─pics
 ```
 
-(here)["Tip"](on the Tip directory) are so bash file that help you move file or rename json
+(here)["https://github.com/ZEUP330/Mask-R-CNN/tree/master/Tip"](on the Tip directory) are so bash file that help you move file or rename json
 
 you can learn that using the labelme to mark your data in here;
 
-and find the [train_corner.ipynb]("NetWork\samples\train_corner.ipynb") in here
+and find the [train_corner.ipynb]("NetWork/samples/train_corner.ipynb") (refer to [here](Tip/README.md))
